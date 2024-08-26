@@ -37,7 +37,7 @@
 </head>
 
 <div id="preloader">
-    <img src="./image/1703053243logofooter.png" alt="Loading...">
+    <img src="image/1703053243logofooter.png" alt="Loading...">
 </div>
 
 
@@ -52,7 +52,7 @@
                 <div class="col-lg-12">
                     <div class="d-flex justify-content-between">
                         <!-- Logo-->
-                        <div class="site-branding"><a class="site-logo align-self-center" href="https://block55.in"><img src="./image/logofooter.png" alt=""></a>
+                        <div class="site-branding"><a class="site-logo align-self-center" href="https://block55.in"><img src="logofooter.png" alt=""></a>
                         <!-- <div class="vertical"></div> -->
                     </div>
                     
