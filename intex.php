@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Block55</title>
-<link rel="shortcut icon" href="./image/logofooter.png" type="image/x-icon">
+<link rel="shortcut icon" href="logofooter.png" type="image/x-icon">
 
 <!-- Boostrap Link .-->
 <link rel="stylesheet" media="screen" href="https://block55.in/assets/front/css/plugins.min.css">
@@ -25,7 +25,7 @@
 </head>
 
 <div id="preloader">
-    <img src="./image/1703053243logofooter.png" alt="Loading...">
+    <img src="1703053243logofooter.png" alt="Loading...">
 </div>
 
 <!-- HEADER TAG -->
@@ -37,7 +37,7 @@
                 <div class="col-lg-12">
                     <div class="d-flex justify-content-between">
                         <!-- Logo-->
-                        <div class="site-branding"><a class="site-logo align-self-center" href="https://block55.in"><img src="./image/logofooter.png" alt=""></a>
+                        <div class="site-branding"><a class="site-logo align-self-center" href="https://block55.in"><img src="logofooter.png" alt=""></a>
                     
                     </div>
                         <!-- Toolbar-->
@@ -249,8 +249,8 @@
 <div class="slider-container" style="margin-top:0px">
       <div class="logos" style="border:0">
         <div class="logos-slide" >
-        <img src="./image/marrkq1.png" alt="">
-        <img src="./image/marrkq1.png" alt="">
+        <img src="marrkq1.png" alt="">
+        <img src="marrkq1.png" alt="">
         </div>
     </div>
     </div>
