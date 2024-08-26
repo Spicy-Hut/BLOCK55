@@ -19,7 +19,7 @@
 
 <!-- Modernizr-->
 <script src="https://block55.in/assets/front/js/modernizr.min.js"></script>
- <link rel="stylesheet" href="./CSS/style.css">
+ <link rel="stylesheet" href="style.css">
  
 
 </head>
