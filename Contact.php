@@ -40,7 +40,7 @@
 </head>
 
 <div id="preloader">
-    <img src="./image/1703053243logofooter.png" alt="Loading...">
+    <img src="image/1703053243logofooter.png" alt="Loading...">
 </div>
 
 
