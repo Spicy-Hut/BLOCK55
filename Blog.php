@@ -56,7 +56,7 @@
                 <div class="col-lg-12">
                     <div class="d-flex justify-content-between">
                         <!-- Logo-->
-                        <div class="site-branding"><a class="site-logo align-self-center" href="https://block55.in"><img src="./image/logofooter.png" alt=""></a>
+                        <div class="site-branding"><a class="site-logo align-self-center" href="https://block55.in"><img src="image/logofooter.png" alt=""></a>
                         <!-- <div class="vertical"></div> -->
                     </div>
                     
@@ -1030,7 +1030,7 @@ future of underground fashion.<o:p></o:p></p></p>
         </div>
 
         <div class="col-lg-6 col-md-6 col-sm-6  footer-logo">
-                <!-- <img src="assets/images/logofooter.png" alt="loading"> -->
+                <!-- <img src="images/logofooter.png" alt="loading"> -->
                 <img src="https://block55.in/assets/images/logofooter.png" alt="loading">
           </div>
       </div>
